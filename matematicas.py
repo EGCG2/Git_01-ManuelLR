@@ -6,7 +6,7 @@ def suma(a, b):
     return a + b
 
 def resta(a, b):
-    return a - b
+    return 2 * a - (a + b)
 
 a = 3
 b = 2
