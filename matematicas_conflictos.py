@@ -6,7 +6,11 @@ def suma(a, b):
     return a + b
 
 def resta(a, b):
+<<<<<<< HEAD
+    return 2 * a - (a + b)
+=======
     return suma(a, -b)
+>>>>>>> conflicto
 
 a = 3
 b = 2
